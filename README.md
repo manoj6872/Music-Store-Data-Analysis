@@ -14,12 +14,12 @@
 
 - - Track ↔ Genre
 
-  - Employee has a self-relationship (manager → employee). This structure ensures proper organization and relationships in the database.”
+- Employee has a self-relationship (manager → employee). This structure ensures proper organization and relationships in the database.”
 
 
 # 🧼Database Schema
 
-- “Our schema has multiple tables:
+🔹 “Our schema has multiple tables:
 
 - - Employee: staff details
 
@@ -37,7 +37,7 @@
 
 # ❓SQL Queries & Insights
 
-- “These queries help us analyze business data:
+🔹 “These queries help us analyze business data:
 
 - - Senior-most Employee → shows top-level employee.
 
